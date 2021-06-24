@@ -1,0 +1,184 @@
+.header-txt {
+    color: #ffffff;
+    font-size: 1.6vw;
+}
+
+.navButtons {
+    color: #8f8f8f;
+    width: 10%;
+    top: 0px;
+    font-size: 1.27vw;
+}
+
+.navButtons:hover {
+    color: #fff;
+}
+
+@media screen and (max-width: 1679px){
+    .header-txt {
+        color: #ffffff;
+        font-size: 1.8vw;
+    }
+    
+    .navButtons {
+        color: #8f8f8f;
+        width: 10%;
+        top: 0px;
+        font-size: 1.47vw;
+    }
+}
+
+@media screen and (max-width: 1355px){
+    .header-txt {
+        color: #ffffff;
+        font-size: 2vw;
+    }
+    
+    .navButtons {
+        color: #8f8f8f;
+        width: 10%;
+        top: 0px;
+        font-size: 1.67vw;
+    }
+}
+
+
+@media screen and (max-width: 1123px){
+    .header-txt {
+        color: #ffffff;
+        font-size: 2.2vw;
+    }
+    
+    .navButtons {
+        color: #8f8f8f;
+        width: 10%;
+        top: 0px;
+        font-size: 1.87vw;
+    }
+}
+
+@media screen and (max-width: 993px){
+    .header-txt {
+        color: #ffffff;
+        font-size: 2.4vw;
+    }
+    
+    .navButtons {
+        color: #8f8f8f;
+        width: 10%;
+        top: 0px;
+        font-size: 2.07vw;
+    }
+}
+
+@media screen and (max-width: 891px){
+    .header-txt {
+        color: #ffffff;
+        font-size: 2.6vw;
+    }
+    
+    .navButtons {
+        color: #8f8f8f;
+        width: 10%;
+        top: 0px;
+        font-size: 2.27vw;
+    }
+}
+
+@media screen and (max-width: 777px){
+    .header-txt {
+        color: #ffffff;
+        font-size: 2.9vw;
+    }
+    
+    .navButtons {
+        color: #8f8f8f;
+        width: 10%;
+        top: 0px;
+        font-size: 2.57vw;
+    }
+}
+
+@media screen and (max-width: 663px){
+    .header-txt {
+        color: #ffffff;
+        font-size: 3.2vw;
+    }
+    
+    .navButtons {
+        color: #8f8f8f;
+        width: 10%;
+        top: 0px;
+        font-size: 2.87vw;
+    }
+}
+
+@media screen and (max-width: 583px){
+    .header-txt {
+        color: #ffffff;
+        font-size: 3.7vw;
+    }
+    
+    .navButtons {
+        color: #8f8f8f;
+        width: 15%;
+        top: 0px;
+        font-size: 3.35vw;
+    }
+}
+
+@media screen and (max-width: 453px){
+    .header-txt {
+        color: #ffffff;
+        font-size: 4.2vw;
+    }
+    
+    .navButtons {
+        color: #8f8f8f;
+        width: 15%;
+        top: 0px;
+        font-size: 3.85vw;
+    }
+}
+
+@media screen and (max-width: 363px){
+    .header-txt {
+        color: #ffffff;
+        font-size: 5vw;
+    }
+    
+    .navButtons {
+        color: #8f8f8f;
+        width: 15%;
+        top: 0px;
+        font-size: 4.55vw;
+    }
+}
+@media screen and (max-width: 293px){
+    .header-txt {
+        color: #ffffff;
+        font-size: 6vw;
+    }
+    
+    .navButtons {
+        color: #8f8f8f;
+        width: 20%;
+        top: 0px;
+        font-size: 5.55vw;
+    }
+}
+
+@media screen and (max-width: 227px){
+    .header-txt {
+        color: #ffffff;
+        font-size: 7vw;
+    }
+    
+    .navButtons {
+        color: #8f8f8f;
+        width: 25%;
+        top: 0px;
+        font-size: 6.55vw;
+    }
+}
+

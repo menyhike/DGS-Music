@@ -1,0 +1,13 @@
+body {
+  margin: 0px;
+  background-color: #080808;
+}
+
+#h1-2 {
+  color: #8f8f8f;
+  font-size: 1.27vw;
+}
+
+#h1-2:hover {
+  color: #fff;
+}
